@@ -1,9 +1,9 @@
 # LoanTap Logistic Regression
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/60f6679a-0c7c-4a0d-b6a5-89d7341bcd4f" width = 200 height =150//>
-  <img src="" width = 200 height =150>
-  <img src="https://github.com/user-attachments/assets/03bce162-0bea-4a94-8f2c-b6e4179f8d01" width = 200 height =150/>
+  <img src="https://github.com/user-attachments/assets/60f6679a-0c7c-4a0d-b6a5-89d7341bcd4f" width = 200 height =170//>
+  <img src="LoanTap Logo.png" width = 200 height =170>
+  <img src="https://github.com/user-attachments/assets/03bce162-0bea-4a94-8f2c-b6e4179f8d01" width = 200 height =170/>
 
 </div>
 
